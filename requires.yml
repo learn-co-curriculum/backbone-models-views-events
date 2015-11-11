@@ -10,4 +10,6 @@ javascripts:
     - app.js
   specs:
     - lib/jasmine-jquery.js
+    - spec/models.spec.js
+    - spec/app.spec.js
     - spec/main.spec.js
