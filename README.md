@@ -56,3 +56,5 @@ MyView = Backbone.View.extend({
 ## Resources
 * [Wikipedia - Data Binding](https://en.wikipedia.org/wiki/Data_binding)
 * [Backbone Events Module](http://backbonejs.org/#Events)
+
+<a href='https://learn.co/lessons/backbone-models-views-events' data-visibility='hidden'>View this lesson on Learn.co</a>
